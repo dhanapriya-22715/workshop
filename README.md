@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Register Number:
-## Name:
+# Date:28-11-2024
+## Register Number:24900795
+## Name: Dhanappriya
 ## Problem Title
 Implementation of the Alumni Association platform for the University/Institute.
 ## Problem Description
@@ -51,7 +51,7 @@ Improve platform features and engagement.
 
 
 ## Technology Stack 
-Feature                  -     	Technology/Tool
+Feature                   -     	Technology/Tool
 Alumni Directory         -	Node.js, PostgreSQL, React.js
 Website/Portal           -	React.js, Strapi (or custom CMS)
 Mobile App	             -  React Native
