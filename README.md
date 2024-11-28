@@ -10,6 +10,7 @@ Background: Alumni associations play a pivotal role in fostering lifelong connec
 Government of Gujarat
 
 ## Idea
+```
 1.Create an Online Alumni Directory:
                                     Use simple tools like WordPress or platforms like Wix with directory plugins.
 Allow alumni to update their profiles independently.Secure login for alumni.
@@ -39,6 +40,7 @@ Highlight the impact of donations with success stories.
                                 Use tools like Google Forms or Typeform.
 Include questions about events, communication preferences, and more.Understand alumni expectations and preferences.
 Improve platform features and engagement.
+```
 
 
 
@@ -52,16 +54,16 @@ Improve platform features and engagement.
 
 ## Technology Stack 
 ```
-Feature                   -     	Technology/Tool
-Alumni Directory          -	Node.js, PostgreSQL, React.js
-Website/Portal            -	React.js, Strapi (or custom CMS)
-Mobile App	              -  React Native
-Email Newsletters         -  Mailchimp, SendGrid
-Social Media Integration  -	LinkedIn API, Facebook Graph API
-Events	                  -  Eventbrite API, Zoom API
-Fundraising	              -  Stripe, PayPal
-Discussion Forums	      -  Socket.io, Firebase
-Mentorship Programs	      -  Custom backend (Node.js) + React.js frontend
+Feature                     -     	Technology/Tool
+Alumni Directory            -	Node.js, PostgreSQL, React.js
+Website/Portal              -	React.js, Strapi (or custom CMS)
+Mobile App	                -  React Native
+Email Newsletters           -  Mailchimp, SendGrid
+Social Media Integration    -	LinkedIn API, Facebook Graph API
+Events	                    -  Eventbrite API, Zoom API
+Fundraising	                -  Stripe, PayPal
+Discussion Forums	          -  Socket.io, Firebase
+Mentorship Programs	        -  Custom backend (Node.js) + React.js frontend
 ```
 
 
@@ -70,12 +72,12 @@ Mentorship Programs	      -  Custom backend (Node.js) + React.js frontend
 ## Dependencies
 ```
 Implementation Time:
-phase                               - Duration
-Backend and API Development	        - 8–10 weeks
-Frontend Development (Web & Mobile) - 10–12 weeks
-Testing (QA & UAT)                  - 4 weeks
-Deployment and Launch               - 2 weeks
-Maintenance and Support             - Ongoing
+phase                                 - Duration
+Backend and API Development	          - 8–10 weeks
+Frontend Development (Web & Mobile)   - 10–12 weeks
+Testing (QA & UAT)                    - 4 weeks
+Deployment and Launch                 - 2 weeks
+Maintenance and Support               - Ongoing
 
 Cost Estimate
 Development: ₹3,00,000
