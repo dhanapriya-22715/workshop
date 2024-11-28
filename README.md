@@ -51,33 +51,37 @@ Improve platform features and engagement.
 
 
 ## Technology Stack 
+```
 Feature                   -     	Technology/Tool
-Alumni Directory         -	Node.js, PostgreSQL, React.js
-Website/Portal           -	React.js, Strapi (or custom CMS)
-Mobile App	             -  React Native
-Email Newsletters        -  Mailchimp, SendGrid
-Social Media Integration -	LinkedIn API, Facebook Graph API
-Events	                 -  Eventbrite API, Zoom API
-Fundraising	             -  Stripe, PayPal
-Discussion Forums	     -  Socket.io, Firebase
-Mentorship Programs	     -  Custom backend (Node.js) + React.js frontend
+Alumni Directory          -	Node.js, PostgreSQL, React.js
+Website/Portal            -	React.js, Strapi (or custom CMS)
+Mobile App	              -  React Native
+Email Newsletters         -  Mailchimp, SendGrid
+Social Media Integration  -	LinkedIn API, Facebook Graph API
+Events	                  -  Eventbrite API, Zoom API
+Fundraising	              -  Stripe, PayPal
+Discussion Forums	      -  Socket.io, Firebase
+Mentorship Programs	      -  Custom backend (Node.js) + React.js frontend
+```
 
 
 
 
 ## Dependencies
+```
 Implementation Time:
-phase                              - Duration
-Backend and API Development	       - 8–10 weeks
-Frontend Development (Web & Mobile)- 10–12 weeks
-Testing (QA & UAT)                 - 4 weeks
-Deployment and Launch              - 2 weeks
-Maintenance and Support            - Ongoing
+phase                               - Duration
+Backend and API Development	        - 8–10 weeks
+Frontend Development (Web & Mobile) - 10–12 weeks
+Testing (QA & UAT)                  - 4 weeks
+Deployment and Launch               - 2 weeks
+Maintenance and Support             - Ongoing
 
 Cost Estimate
 Development: ₹3,00,000
 Hosting: ₹2,00,000–₹5,00,000/year
 Marketing & Launch: ₹15,000–₹30,000
 Maintenance: ₹10,000–₹30,000/year
+```
 
 
